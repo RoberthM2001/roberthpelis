@@ -18,7 +18,7 @@ class HomeScreen extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text('Películas en cines'),
+        title: Text('Roberth Pelis '),
         elevation: 0,
         actions: [
           IconButton(
